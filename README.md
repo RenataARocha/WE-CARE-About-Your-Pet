@@ -23,7 +23,7 @@ A plataforma oferece uma interface amigável e intuitiva para facilitar o cuidad
 
 <h2>🎨 Layout</h2>
 
-Link: https://wecareaboutyourpet.programadorawebrenatarocha.com.br/
+Link: https://renataarocha.github.io/WE-CARE-About-Your-Pet/
 
 ![Captura de tela 2025-03-18 162513](https://github.com/user-attachments/assets/a23d73d5-ba40-4831-a07b-d07319c2de30)
 
@@ -36,7 +36,7 @@ git clone https://github.com/RenataARocha?tab=repositories <br> <br>
 2. Acesse a pasta do projeto: <br>
 cd Projeto---WE-CARE-About-Your-Pet <br> <br>
 3. Abra o Link em seu navegador. <br>
-https://wecareaboutyourpet.programadorawebrenatarocha.com.br/ <br> <br>
+https://renataarocha.github.io/WE-CARE-About-Your-Pet/ <br> <br>
 
 
 <h2>🤝 Contribuição</h2>
